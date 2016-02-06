@@ -1,0 +1,10 @@
+Creating files:  touch filename.txt || vim filename.txt
+
+When you open a file, enter insert mode using "I"
+To leave, use "ESC
+
+Saving a fie is "write" -> and "quit" -> :wq
+
+Example.. I -> edit -> ESC -> :wq
+
+To quit without saving :q! where  ! means discard changes
