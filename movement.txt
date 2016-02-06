@@ -1,0 +1,8 @@
+How do I move around in a file?
+
+H J K L is the basics.
+
+H goes to the left
+J goes down
+K goes up
+L goes right

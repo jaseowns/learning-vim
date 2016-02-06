@@ -7,4 +7,6 @@ Saving a fie is "write" -> and "quit" -> :wq
 
 Example.. I -> edit -> ESC -> :wq
 
-To quit without saving :q! where  ! means discard changes
+To quit without saving :q! where  ! means discard changes 
+
+MOVEMENT: See movement.html
